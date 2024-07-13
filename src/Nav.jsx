@@ -16,7 +16,7 @@ const Nav = () => {
 
 
     return (
-        <div className=" ">
+        <div className=" ml-5 mr-5 ">
 
 <div className="navbar bg-base-100">
   <div className="navbar-start">
