@@ -1,6 +1,5 @@
 
 
-
 const Build = () => {
     return (
         <div className="  ml-5 mr-5 mt-10 mb-10">
@@ -34,14 +33,14 @@ const Build = () => {
               <div className=" flex justify-center">
                 <img className=" h-[80px]" src="https://i.ibb.co/q52drm0/build.png" alt="" />
               </div>
-              <p className=" text-2xl">Government Building</p>
+              <p className=" text-2xl">Government Building with Us</p>
              </div>
 
              <div className=" mt-32">
               <div className=" flex justify-center">
                 <img className=" h-[80px]" src="https://i.ibb.co/5x4Wz9y/architecture.png" alt="" />
               </div>
-              <p className=" text-2xl">Education Building</p>
+              <p className=" text-2xl">Education Building with Us</p>
              </div>
 
 

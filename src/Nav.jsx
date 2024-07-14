@@ -8,7 +8,7 @@ const Nav = () => {
     const navs = <>
     
         <li><NavLink to="/" >Home</NavLink></li>
-        <li><NavLink to="/info" >Industry Info</NavLink></li>
+        <li><NavLink to="/info" >Officer Information</NavLink></li>
     
     
     </>

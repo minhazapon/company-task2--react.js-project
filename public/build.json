@@ -1,0 +1,60 @@
+
+[
+
+
+ {
+   "image":"https://img.freepik.com/premium-photo/modern-skyscraper-with-numerous-windows_201606-20090.jpg?w=740",
+   "title": "Business Building",
+   "para": "Lorem ipsum dolor sit amet consectetur, adipisicing .",
+   "location":"america",
+   "price":"$2000.00"
+
+ },
+ {
+   "image":"https://img.freepik.com/premium-photo/mexican-flag-reflected-windows-background_987764-54887.jpg?w=826",
+   "title": "Business Building",
+   "para": "Lorem ipsum dolor sit amet consectetur, adipisicing .",
+   "location":"america",
+   "price":"$2000.00"
+
+
+ },
+ {
+   "image":"https://img.freepik.com/premium-photo/solar-panels-roof-residential-building_99096-4443.jpg?w=826",
+   "title": "Business Building",
+   "para": "Lorem ipsum dolor sit amet consectetur, adipisicing .",
+   "location":"america",
+   "price":"$2000.00"
+
+
+ },
+ {
+   "image":"https://img.freepik.com/premium-photo/high-rise-building-glass-facade-with-reflection-surrounding-buildings_636537-140935.jpg?w=740",
+   "title": "Business Building",
+   "para": "Lorem ipsum dolor sit amet consectetur, adipisicing .",
+   "location":"america",
+   "price":"$2000.00"
+
+
+ },
+ {
+   "image":"https://img.freepik.com/free-photo/mall-america-scenes-cinematic-style_23-2151551214.jpg?t=st=1720931586~exp=1720935186~hmac=d7116dd9a78304eb7ca9fd570a6554bcac12a85f43a7077a12e2a3db0ae29e82&w=740",
+   "title": "Business Building",
+   "para": "Lorem ipsum dolor sit amet consectetur, adipisicing .",
+   "location":"america",
+   "price":"$2000.00"
+
+
+ },
+ {
+   "image":"https://img.freepik.com/premium-photo/tall-building-with-skyscraper-background_564692-18469.jpg?w=826",
+   "title": "Business Building",
+   "para": "Lorem ipsum dolor sit amet consectetur, adipisicing .",
+   "location":"america",
+   "price":"$2000.00"
+
+
+ }
+
+
+]

@@ -26,7 +26,7 @@ const Park = () => {
 
               <div className=" bg-white  h-[300px] w-[400px] p-7">
                <h1 className=" text-center text-3xl font-serif">We have several business<br></br> and industrial parks with<br></br> available space for your<br></br> business</h1>
-               <p className=" flex justify-center text-center mt-10 btn">Read More</p>
+               <p className=" flex justify-center text-center mt-10 btn border-[1px] border-black">Read More</p>
               </div>
 
 
